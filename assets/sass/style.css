@@ -4386,6 +4386,9 @@ Footer
 
 .footer__area-contact-info-item-content h3 a {
   color: #fff;
+  text-decoration: none;
+  word-break: break-word;
+  display: inline-block;
   font-size: 20px;
   line-height: 32px;
 }
